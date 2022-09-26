@@ -1,0 +1,8 @@
+STUDENT ROSTER
+
+CRUD application using the MERN stack with additional libraries: MaterialUI(component styling)
+
+Use NPM start from the terminal inside the client folder to start the React server.
+
+To open the server and connections, first you must log in and then add your current IP address to
+the network access. Then use NPM start from the terminal inside the server folder to start the Express connection to MongoDB cluster. 
